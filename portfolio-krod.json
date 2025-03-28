@@ -1,0 +1,103 @@
+{
+  "name": "Kerry Rodriguez",
+  "label": "MBA Candidate at INSEAD",
+  "image_path": "portfolio_media/main.jpg",
+  "contact": {
+    "email": "Kerryrodguez@gmail.com",
+    "phone": "",
+    "location": "Fontainebleau, France"
+  },
+  "summary": "Project manager with a passion for breaking down complex concepts and tasks into manageable workflows.",
+  "url": "",
+  "social_links": [
+    {
+      "label": "Github",
+      "url": "https://github.com/kerryrod",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Russell Reynolds Associates",
+      "position": "Knowledge Associate",
+      "url": "https://www.russellreynolds.com",
+      "start_date": "2021",
+      "end_date": "2024",
+      "summary": "",
+      "highlights": [
+        "Automated tabulated data extraction from proprietary PDF documents using Python to enrich existing datasets and to enhance Go-To-Market strategies with existing and new clients in EMEA and the Americas",
+        "Project manager for a team of 50+ consultants; increased group engagement by facilitating structured monthly calls and by enabling business development strategies with leading clients, including Blackstone, Corsair, Aquiline, and Centerbridge",
+        "Developed a user-friendly, command-interface Python application to streamline multiple workflows within Knowledge Management, reducing time to generate client reports by more than 50% and considerably freeing up team resources to focus on higher-order, client-facing projects",
+        "Authored a series of data pipelines leveraging PitchBook's API service and RRA's proprietary data to build and maintain intelligence platforms within the Private Capital unit, reducing considerably time required to prepare pitch materials"
+      ]
+    },
+    {
+      "company": "FSG",
+      "position": "Consultant",
+      "url": "https://www.fsg.org",
+      "start_date": "2018",
+      "end_date": "2021",
+      "summary": "",
+      "highlights": [
+        "Project managed a collaboration of +30 stakeholders in Greater Memphis in order to steer $10M in committed funding towards improving economic prosperity",
+        "Facilitated in-person and virtual strategy sessions with local leaders in Memphis to dispense emergency funding throughout the COVID-19 pandemic to healthcare providers, community organizations, and faith groups",
+        "Devised robust, multi-year strategic plans across a wide range of foundations - including The Cleveland Community Foundation, the Jones Family Foundation, and The Health Foundation for Western and Central New York - by leading strategy sessions, synthesizing feedback, and hosting multiple world cafes in order to reach group consensus"
+      ]
+    }
+    
+  ],
+  "projects": [],
+  "volunteer_experience": [],
+  "education": [
+    {
+      "institution": "INSEAD",
+      "location": "Fontainebleau, France",
+      "url": "https://www.insead.edu",
+      "degrees": [
+        "Master in Business Administration"
+      ],
+      "honors": [],
+      "graduation_date": "2025"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Pandas",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "OCR, OpenCV, pytesseract, camelot-py",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Scrapy, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Skiing",
+      "summary": "",
+      "images": []
+    },
+    {
+      "name":"Non-Fiction Reading",
+      "summary":"",
+      "images":[]
+    }
+  ],
+  "languages": [
+    {
+      "language":"Spansih",
+      "fluency":"B2"
+    },
+    {
+      "language":"French",
+      "fluency":"B2"
+    }
+  ],
+  "references": []
+}
