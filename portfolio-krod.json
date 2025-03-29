@@ -58,6 +58,13 @@
       ],
       "honors": [],
       "graduation_date": "2025"
+    },
+    {
+      "institution":"Haverford College",
+      "location":"Haverford, PA",
+      "url":"https://www.haverford.edu",
+      "degrees":"BA in Political Science, Minor in Economics",
+      "graduation_date":"2018"
     }
   ],
   "skills": [
