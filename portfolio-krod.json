@@ -80,8 +80,8 @@
     },
     {
       "name": "spaCy, langchain, openAI embeddings, mongodb",
-      "proficiency": 90,
-      "proficiency_label": "Advanced"
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
     },
     {
       "name": "FastAPI, React",
