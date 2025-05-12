@@ -7,13 +7,18 @@
     "phone": "",
     "location": "Fontainebleau, France"
   },
-  "summary": "Project manager with a passion for breaking down complex concepts and tasks into manageable workflows.",
+  "summary": "Project manager and life-long learner with a passion for breaking down complex concepts and tasks into manageable workflows using python, genAI, and data analytics.",
   "url": "",
   "social_links": [
     {
       "label": "Github",
       "url": "https://github.com/kerryrod",
       "svg_path": "img/github.svg"
+    },
+    {
+      "label":"LinkedIn",
+      "url":"https://www.linkedin.com/in/kerry-rodríguez-59a359227",
+      "svg_path":"img/linkedin.svg"
     }
   ],
   "work_experience": [
