@@ -74,14 +74,14 @@
       "proficiency_label": "Advanced"
     },
     {
-      "name": "OCR, OpenCV, pytesseract, camelot-py",
+      "name": "spaCy, langchain, openAI embeddings, mongodb",
       "proficiency": 90,
       "proficiency_label": "Advanced"
     },
     {
-      "name": "Scrapy, HTML, CSS",
-      "proficiency": 75,
-      "proficiency_label": "Comfortable"
+      "name": "FastAPI, React",
+      "proficiency": 25,
+      "proficiency_label": "Beginner"
     }
   ],
   "interests": [
