@@ -1,11 +1,11 @@
 {
   "name": "Kerry Rodriguez",
-  "label": "MBA Candidate at INSEAD",
+  "label": "INSEAD MBA (Graduated June 2025)",
   "image_path": "portfolio_media/main_outdoors.jpg",
   "contact": {
     "email": "Kerryrodguez@gmail.com",
     "phone": "",
-    "location": "Fontainebleau, France"
+    "location": "Los Angeles, California"
   },
   "summary": "Project manager and life-long learner with a passion for breaking down complex concepts and tasks into manageable workflows using python, genAI, and data analytics.",
   "url": "",
@@ -79,7 +79,7 @@
       "proficiency_label": "Advanced"
     },
     {
-      "name": "spaCy, langchain, openAI embeddings, mongodb",
+      "name": "spaCy, langchain, openAI embeddings, SQL",
       "proficiency": 75,
       "proficiency_label": "Comfortable"
     },
