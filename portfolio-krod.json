@@ -5,7 +5,7 @@
   "contact": {
     "email": "Kerryrodguez@gmail.com",
     "phone": "",
-    "location": "Los Angeles, California"
+    "location": "United States"
   },
   "summary": "Project manager and life-long learner with a passion for breaking down complex concepts and tasks into manageable workflows using python, genAI, and data analytics.",
   "url": "",
@@ -62,14 +62,14 @@
         "Master in Business Administration"
       ],
       "honors": [],
-      "graduation_date": "2025"
+      "graduation_date": "June 2025"
     },
     {
       "institution":"Haverford College",
       "location":"Haverford, PA",
       "url":"https://www.haverford.edu",
       "degrees":["BA in Political Science, Minor in Economics"],
-      "graduation_date":"2018"
+      "graduation_date":"May 2018"
     }
   ],
   "skills": [
@@ -79,12 +79,12 @@
       "proficiency_label": "Advanced"
     },
     {
-      "name": "spaCy, langchain, openAI embeddings, SQL",
+      "name": "spaCy, openAI developer platform, SQL, langchain, supabase",
       "proficiency": 75,
       "proficiency_label": "Comfortable"
     },
     {
-      "name": "FastAPI, React",
+      "name": "Django",
       "proficiency": 25,
       "proficiency_label": "Beginner"
     }

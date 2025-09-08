@@ -4,6 +4,10 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 
+"""
+CONDA ENV - ML_projs
+"""
+
 # Load JSON data
 with Path("portfolio-krod.json").open(encoding="utf-8") as f:
     data = json.load(f)
