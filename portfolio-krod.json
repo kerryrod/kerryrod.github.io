@@ -74,7 +74,7 @@
   ],
   "skills": [
     {
-      "name": "Python, Pandas",
+      "name": "Python, Pandas, Django",
       "proficiency": 90,
       "proficiency_label": "Advanced"
     },
@@ -84,7 +84,7 @@
       "proficiency_label": "Comfortable"
     },
     {
-      "name": "Django",
+      "name": "Guitar",
       "proficiency": 25,
       "proficiency_label": "Beginner"
     }
