@@ -16,9 +16,9 @@
       "svg_path": "img/github.svg"
     },
     {
-      "label":"LinkedIn",
-      "url":"https://www.linkedin.com/in/kerry-rodríguez-59a359227",
-      "svg_path":"img/linkedin.svg"
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kerry-rodríguez-59a359227",
+      "svg_path": "img/linkedin.svg"
     }
   ],
   "work_experience": [
@@ -49,9 +49,18 @@
         "Devised robust, multi-year strategic plans across a wide range of foundations - including The Cleveland Community Foundation, the Jones Family Foundation, and The Health Foundation for Western and Central New York - by leading strategy sessions, synthesizing feedback, and hosting multiple world cafes in order to reach group consensus"
       ]
     }
-    
   ],
-  "projects": [],
+  "projects": [
+    {
+      "title": "ContraRes",
+      "summary": "Intelligence Platform Built for US Election Campaigns Challenging Incumbents in the US Congress",
+      "url": "www.contrasearch.com",
+      "highlights": [
+        "Founded and built ContraRes as a sole founder — an intelligence platform that aggregates, analyzes, and presents real-time data for U.S. congressional challengers.",
+        "Designed the full product architecture: Django backend, Supabase-powered data operations, modern frontend UI, and secure production deployment."
+      ]
+    }
+  ],
   "volunteer_experience": [],
   "education": [
     {
@@ -65,11 +74,13 @@
       "graduation_date": "June 2025"
     },
     {
-      "institution":"Haverford College",
-      "location":"Haverford, PA",
-      "url":"https://www.haverford.edu",
-      "degrees":["BA in Political Science, Minor in Economics"],
-      "graduation_date":"May 2018"
+      "institution": "Haverford College",
+      "location": "Haverford, PA",
+      "url": "https://www.haverford.edu",
+      "degrees": [
+        "BA in Political Science, Minor in Economics"
+      ],
+      "graduation_date": "May 2018"
     }
   ],
   "skills": [
@@ -96,22 +107,22 @@
       "images": []
     },
     {
-      "name":"Non-Fiction Reading",
-      "summary":"",
-      "images":[]
+      "name": "Non-Fiction Reading",
+      "summary": "",
+      "images": []
     },
     {
-      "name":"Photography with Sony Alpha 7C"
+      "name": "Photography with Sony Alpha 7C"
     }
   ],
   "languages": [
     {
-      "language":"Spansih",
-      "fluency":"B2"
+      "language": "Spansih",
+      "fluency": "B2"
     },
     {
-      "language":"French",
-      "fluency":"B2"
+      "language": "French",
+      "fluency": "B2"
     }
   ],
   "references": []
