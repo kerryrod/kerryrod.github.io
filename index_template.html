@@ -142,9 +142,9 @@
                 <section>
                   <h3>
                     {% if project.url %}
-                      <a href="{{ project.url }}">{{ project.title }}</a>
+                      {{project.position}} at <a href="{{ project.url }}">{{ project.title }}</a>
                     {% else %}
-                      {{ project.title }}
+                      {{project.position}} at {{ project.title }}
                     {% endif %}
                   </h3>
                   {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}

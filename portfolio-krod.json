@@ -53,10 +53,11 @@
   "projects": [
     {
       "title": "ContraRes",
+      "position":"Founder",
       "summary": "Intelligence Platform Built for US Election Campaigns Challenging Incumbents in the US Congress",
       "url": "https://www.contrasearch.com",
       "highlights": [
-        "Founded and built ContraRes as a sole founder — an intelligence platform that aggregates, analyzes, and presents real-time data for U.S. congressional challengers.",
+        "Founded and built ContraRes — an intelligence platform that aggregates, analyzes, and presents real-time data for U.S. congressional challengers.",
         "Designed the full product architecture: Django backend, Supabase-powered data operations, modern frontend UI, and secure production deployment."
       ]
     }
