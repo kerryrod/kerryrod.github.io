@@ -5,7 +5,7 @@ from pathlib import Path
 from jinja2 import Environment, FileSystemLoader
 
 """
-CONDA ENV - ML_projs
+CONDA ENV - personal_projs
 """
 
 # Load JSON data
