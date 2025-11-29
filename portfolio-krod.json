@@ -57,7 +57,7 @@
       "summary": "Intelligence and Social Network Platform Built for US Federal Campaigns Challenging Incumbents in the US Congress",
       "url": "https://www.contrasearch.com",
       "highlights": [
-        "Founded and bootstrapped ContraSearch, a platform designed to provide critical and timely intelligence to help U.S. congressional challengers compete more effectively for seats in Congress",
+        "Founded and bootstrapped ContraSearch, a platform designed to provide timely and crowd-sourced intelligence to help U.S. congressional challengers compete more effectively for seats in Congress",
         "Designed the full product architecture: Django backend, Supabase-powered data operations, modern frontend UI, and secure production deployment"
       ]
     }
