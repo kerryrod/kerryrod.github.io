@@ -57,7 +57,7 @@
       "summary": "Intelligence and Marketplace Platform Built for US Federal Campaigns",
       "url": "https://www.contrasearch.com",
       "highlights": [
-        "Founded and bootstrapped ContraSearch, a platform that delivers timely intelligence to U.S. federal campaigns and provides a professional network to help them scale",
+        "Founded and bootstrapped ContraSearch, a platform that delivers timely intelligence to U.S. federal campaigns and provides a marketplace to help them scale",
         "Designed the full product architecture: Django backend, Supabase-powered data operations, modern frontend UI, and secure production deployment"
       ]
     }
