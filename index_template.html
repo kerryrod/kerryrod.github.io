@@ -137,7 +137,7 @@
 
           {% if projects %}
             <section>
-              <h2 class="section-heading">Projects</h2>
+              <h2 class="section-heading">Entrepreneurial Projects</h2>
               {% for project in projects %}
                 <section>
                   <h3>
@@ -147,6 +147,9 @@
                       {{project.position}} at {{ project.title }}
                     {% endif %}
                   </h3>
+                  {% if project.start_date and project.end_date %}
+                    <p class="section-label">{{ project.start_date }} - {{ project.end_date }}</p>
+                  {% endif %}
                   {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}
                   {% if project.highlights %}
                     <ul>

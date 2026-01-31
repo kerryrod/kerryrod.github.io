@@ -53,11 +53,13 @@
   "projects": [
     {
       "title": "ContraSearch, Inc.",
+      "start_date": "2025",
+      "end_date": "Present",
       "position":"Founder & CEO",
       "summary": "",
       "url": "https://www.contrasearch.com",
       "highlights": [
-        "ContraSearch, Inc. provides innovative tools and products to scale-up US federal campaigns -- from providing timely intelligence, a marketplace that connects campaigns and vendors, to facilitating the connection between a candidate and voters"
+        "ContraSearch, Inc. provides innovative products and services to scale-up US federal campaigns -- from providing timely intelligence, a marketplace that connects campaigns and vendors, to facilitating the connection between a candidate and voters"
       ]
     }
   ],

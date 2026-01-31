@@ -125,6 +125,9 @@
                       {{ project.title }}
                     {% endif %}
                   </h3>
+                  {% if project.start_date and project.end_date %}
+                    <p class="section-label">{{ project.start_date }} - {{ project.end_date }}</p>
+                  {% endif %}
                   {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}
                   {% if project.highlights %}
                     <ul>
